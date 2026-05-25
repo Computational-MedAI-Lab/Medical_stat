@@ -1,1 +1,1 @@
-computational-medai-lab.github.io
+https://computational-medai-lab.github.io/Medical_stat/
